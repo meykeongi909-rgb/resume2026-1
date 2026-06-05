@@ -155,7 +155,7 @@ footer{
 </section>
 
 <section>
-    <h2 class="section-title"> <img width="498" height="498" alt="SadCryGIF" src="https://github.com/user-attachments/assets/81bd3a1f-32ba-406a-92da-3397cd2cfdd0" />
+    <h2 class="section-title"> 🚀
 사용 기술</h2>
 
     <div class="skills">
