@@ -207,7 +207,7 @@ footer{
 </section>
 
 <section>
-    <h2 class="section-title">😁<img width="272" height="480" alt="YesssMemeGIF" src="https://github.com/user-attachments/assets/fe1c47b5-87df-4ce4-99ca-08bec53b2219" />
+    <h2 class="section-title">😁
  반응형 웹</h2>
 
     <div class="card">
